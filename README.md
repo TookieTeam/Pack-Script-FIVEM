@@ -8,6 +8,7 @@ pour certain script j'ai essayer de faciliter les chose en métant des fichiers 
 
 j'ai modifier le nom dans les notification ou autre par par exemple le nom du serveur j'ai mis nom du serveur roleplay à vous de le modif
 
+la fonction crypto dans le shop illégal est désactiver par défaut a vous de l'activer si vous la souhaiter grace au fichier config ^^
 
 [FULL RageUI]
 
