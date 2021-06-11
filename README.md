@@ -6,7 +6,7 @@ a savoir que tout ses script sont fait par moi donc si vous vouler les utiliser 
 
 pour certain script j'ai essayer de faciliter les chose en métant des fichiers config apres j'ai eu la flemme de le faire pour tous ^^
 
-
+j'ai modifier le nom dans les notification ou autre par par exemple le nom du serveur j'ai mis nom du serveur roleplay à vous de le modif
 
 
 [FULL RageUI]
