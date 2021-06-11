@@ -1,0 +1,5 @@
+Config = {
+    
+    Crypto = false
+
+}
